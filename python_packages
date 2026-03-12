@@ -1,0 +1,239 @@
+cd "C:\Users\yoqi\OneDrive - ASML\Desktop\Personal\Python\whl_for_3.7Win64"
+pip install xlrd-1.2.0-py2.py3-none-any.whl
+pip install pyexcel_io-0.6.2-py2.py3-none-any.whl
+pip install xlwt-1.3.0-py2.py3-none-any.whl
+pip install lml-0.1.0-py2.py3-none-any.whl
+pip install numpy-1.21.2-cp37-cp37m-win_amd64.whl
+pip install pyparsing-2.4.2-py2.py3-none-any.whl
+pip install pytz-2021.1-py2.py3-none-any.whl
+pip install six-1.16.0-py2.py3-none-any.whl
+pip install python_dateutil-2.8.2-py2.py3-none-any.whl
+pip install cycler-0.10.0-py2.py3-none-any.whl
+pip install kiwisolver-1.3.2-cp37-cp37m-win_amd64.whl
+pip install packaging-21.0-py3-none-any.whl
+pip install tomli-1.2.1-py3-none-any.whl
+pip install setuptools_scm-6.3.2-py3-none-any.whl
+pip install fonttools-4.26.2-py3-none-any.whl
+pip install Pillow-8.3.2-cp37-cp37m-win_amd64.whl
+pip install matplotlib-2.2.3-cp37-cp37m-win_amd64.whl
+pip install pandas-1.3.2-cp37-cp37m-win_amd64.whl
+pip install et_xmlfile-1.1.0-py3-none-any.whl
+pip install jdcal-1.4.1-py2.py3-none-any.whl
+pip install openpyxl-3.0.4-py2.py3-none-any.whl
+pip install XlsxWriter-3.0.1-py3-none-any.whl
+pip install lxml-4.2.4-cp37-cp37m-win_amd64.whl
+pip install python-pptx-0.6.19.tar.gz
+pip install PyMySQL-1.0.2-py3-none-any.whl
+pip install requests-2.26.0-py2.py3-none-any.whl
+pip install certifi-2021.5.30-py2.py3-none-any.whl
+pip install charset_normalizer-2.0.4-py3-none-any.whl
+pip install urllib3-1.26.6-py2.py3-none-any.whl
+pip install idna-3.2-py3-none-any.whl
+pip install pysolr-3.8.1-py2.py3-none-any.whl
+pip install plotly-5.18.0-py3-none-any.whl
+pip install scipy-1.1.0-cp37-none-win_amd64.whl
+pip install threadpoolctl-2.0.0-py3-none-any.whl
+pip install joblib-0.11-py2.py3-none-any.whl
+pip install opencv-python-4.12.0.88.tar.gz
+pip install scikit_learn-1.0.2-cp37-cp37m-win_amd64.whl
+pip install gdstk-0.9.42-cp37-cp37m-win_amd64.whl
+pause
+
+
+
+#####install pyinstaller
+cd "C:\Users\yoqi\OneDrive - ASML\Desktop\Personal\Python\whl_for_3.7Win64"
+pip install setuptools-68.0.0-py3-none-any.whl
+pip install altgraph-0.17.4-py2.py3-none-any.whl
+pip install pyinstaller_hooks_contrib-2024.7-py2.py3-none-any.whl
+pip install importlib_metadata-6.7.0-py3-none-any.whl
+pip install pefile-2024.8.26-py3-none-any.whl
+pip install pywin32_ctypes-0.2.3-py3-none-any.whl
+pip install zipp-0.5.1-py2.py3-none-any.whl
+pip install typing_extensions-4.7.1-py3-none-any.whl
+pip install packaging-24.0-py3-none-any.whl
+pip install pyinstaller-5.13.2-py3-none-win_amd64.whl
+
+pause
+
+
+####install IQA related
+cd "C:\Users\yoqi\OneDrive - ASML\Desktop\Personal\Python\whl_for_3.7Win64"
+pip install scipy-1.7.3-cp37-cp37m-win_amd64.whl
+pip install networkx-2.4-py3-none-any.whl
+pip install imageio-2.5.0-py3-none-any.whl
+pip install tifffile-2021.11.2-py3-none-any.whl
+pip install PyWavelets-1.3.0-cp37-cp37m-win_amd64.whl
+pip install decorator-4.3.0-py2.py3-none-any.whl
+pip install scikit_image-0.19.3-cp37-cp37m-win_amd64.whl
+pip install sewar-0.4.6.tar.gz
+pip install dataclasses-0.6-py3-none-any.whl
+pip install setuptools-68.0.0-py3-none-any.whl
+pip install seaborn-0.9.0-py3-none-any.whl
+
+pause
+
+
+
+####install labelme
+(yolo) C:\Users\yoqi\OneDrive - ASML\Desktop\Personal\Python\whl_for_3.7Win64_auto_install\Yolo>pip install PyQt5_sip-12.11.0-cp37-cp37m-win_amd64.whl
+Processing c:\users\yoqi\onedrive - asml\desktop\personal\python\whl_for_3.7win64_auto_install\yolo\pyqt5_sip-12.11.0-cp37-cp37m-win_amd64.whl
+PyQt5-sip is already installed with the same version as the provided wheel. Use --force-reinstall to force an installation of the wheel.
+
+(yolo) C:\Users\yoqi\OneDrive - ASML\Desktop\Personal\Python\whl_for_3.7Win64_auto_install\Yolo>pip install PyQt5-5.15.9-cp37-abi3-win_amd64.whl
+Processing c:\users\yoqi\onedrive - asml\desktop\personal\python\whl_for_3.7win64_auto_install\yolo\pyqt5-5.15.9-cp37-abi3-win_amd64.whl
+Requirement already satisfied: PyQt5-sip<13,>=12.11 in c:\programdata\anaconda3\envs\yolo\lib\site-packages (from PyQt5==5.15.9) (12.11.0)
+Collecting PyQt5-Qt5>=5.15.2
+  Using cached PyQt5_Qt5-5.15.2-py3-none-win_amd64.whl (50.1 MB)
+Installing collected packages: PyQt5-Qt5, PyQt5
+Successfully installed PyQt5-5.15.9 PyQt5-Qt5-5.15.2
+
+(yolo) C:\Users\yoqi\OneDrive - ASML\Desktop\Personal\Python\whl_for_3.7Win64_auto_install\Yolo>pip install labelme
+Collecting labelme
+  Using cached labelme-5.6.1-py3-none-any.whl (1.4 MB)
+Collecting onnxruntime!=1.16.0,!=1.20.0,!=1.20.1,>=1.14.1
+  Using cached onnxruntime-1.14.1-cp37-cp37m-win_amd64.whl (6.5 MB)
+Collecting gdown
+  Using cached gdown-4.7.3-py3-none-any.whl (16 kB)
+Requirement already satisfied: numpy in c:\programdata\anaconda3\envs\yolo\lib\site-packages (from labelme) (1.21.6)
+Requirement already satisfied: matplotlib in c:\programdata\anaconda3\envs\yolo\lib\site-packages (from labelme) (3.5.3)
+Collecting labelme
+  Using cached labelme-5.6.0.tar.gz (1.4 MB)
+  Preparing metadata (setup.py) ... done
+Collecting imgviz>=1.7.5
+  Using cached imgviz-1.7.5-py3-none-any.whl
+Collecting loguru
+  Using cached loguru-0.7.3-py3-none-any.whl (61 kB)
+Collecting natsort>=7.1.0
+  Using cached natsort-8.4.0-py3-none-any.whl (38 kB)
+Collecting labelme
+  Using cached labelme-5.5.0-py3-none-any.whl
+Collecting termcolor
+  Using cached termcolor-2.3.0-py3-none-any.whl (6.9 kB)
+Requirement already satisfied: PyYAML in c:\programdata\anaconda3\envs\yolo\lib\site-packages (from labelme) (6.0.1)
+Requirement already satisfied: colorama in c:\programdata\anaconda3\envs\yolo\lib\site-packages (from labelme) (0.4.6)
+Collecting scikit-image
+  Using cached scikit_image-0.19.3-cp37-cp37m-win_amd64.whl (12.1 MB)
+Collecting qtpy!=1.11.2
+  Using cached QtPy-2.4.3-py3-none-any.whl (95 kB)
+Requirement already satisfied: PyQt5!=5.15.3,!=5.15.4 in c:\programdata\anaconda3\envs\yolo\lib\site-packages (from labelme) (5.15.9)
+Requirement already satisfied: Pillow>=2.8 in c:\programdata\anaconda3\envs\yolo\lib\site-packages (from labelme) (9.5.0)
+Collecting protobuf
+  Using cached protobuf-4.24.4-cp37-cp37m-win_amd64.whl (430 kB)
+Collecting coloredlogs
+  Using cached coloredlogs-15.0.1-py2.py3-none-any.whl (46 kB)
+Requirement already satisfied: packaging in c:\programdata\anaconda3\envs\yolo\lib\site-packages (from onnxruntime!=1.16.0,!=1.20.0,!=1.20.1,>=1.14.1->labelme) (24.0)
+Collecting sympy
+  Using cached sympy-1.10.1-py3-none-any.whl (6.4 MB)
+Collecting flatbuffers
+  Using cached flatbuffers-25.12.19-py2.py3-none-any.whl (26 kB)
+Requirement already satisfied: PyQt5-sip<13,>=12.11 in c:\programdata\anaconda3\envs\yolo\lib\site-packages (from PyQt5!=5.15.3,!=5.15.4->labelme) (12.11.0)
+Requirement already satisfied: PyQt5-Qt5>=5.15.2 in c:\programdata\anaconda3\envs\yolo\lib\site-packages (from PyQt5!=5.15.3,!=5.15.4->labelme) (5.15.2)
+Requirement already satisfied: tqdm in c:\programdata\anaconda3\envs\yolo\lib\site-packages (from gdown->labelme) (4.67.1)
+Collecting beautifulsoup4
+  Using cached beautifulsoup4-4.14.3-py3-none-any.whl (107 kB)
+Requirement already satisfied: six in c:\programdata\anaconda3\envs\yolo\lib\site-packages (from gdown->labelme) (1.17.0)
+Collecting filelock
+  Using cached filelock-3.12.2-py3-none-any.whl (10 kB)
+Requirement already satisfied: requests[socks] in c:\programdata\anaconda3\envs\yolo\lib\site-packages (from gdown->labelme) (2.31.0)
+Requirement already satisfied: python-dateutil>=2.7 in c:\programdata\anaconda3\envs\yolo\lib\site-packages (from matplotlib->labelme) (2.9.0.post0)
+Requirement already satisfied: cycler>=0.10 in c:\programdata\anaconda3\envs\yolo\lib\site-packages (from matplotlib->labelme) (0.11.0)
+Requirement already satisfied: kiwisolver>=1.0.1 in c:\programdata\anaconda3\envs\yolo\lib\site-packages (from matplotlib->labelme) (1.4.5)
+Requirement already satisfied: fonttools>=4.22.0 in c:\programdata\anaconda3\envs\yolo\lib\site-packages (from matplotlib->labelme) (4.38.0)
+Requirement already satisfied: pyparsing>=2.2.1 in c:\programdata\anaconda3\envs\yolo\lib\site-packages (from matplotlib->labelme) (3.1.4)
+Collecting tifffile>=2019.7.26
+  Using cached tifffile-2021.11.2-py3-none-any.whl (178 kB)
+Collecting PyWavelets>=1.1.1
+  Using cached PyWavelets-1.3.0-cp37-cp37m-win_amd64.whl (4.2 MB)
+Requirement already satisfied: scipy>=1.4.1 in c:\programdata\anaconda3\envs\yolo\lib\site-packages (from scikit-image->labelme) (1.7.3)
+Collecting networkx>=2.2
+  Using cached networkx-2.6.3-py3-none-any.whl (1.9 MB)
+Collecting imageio>=2.4.1
+  Using cached imageio-2.31.2-py3-none-any.whl (313 kB)
+Requirement already satisfied: typing-extensions in c:\programdata\anaconda3\envs\yolo\lib\site-packages (from kiwisolver>=1.0.1->matplotlib->labelme) (4.7.1)
+Collecting soupsieve>=1.6.1
+  Using cached soupsieve-2.4.1-py3-none-any.whl (36 kB)
+Collecting humanfriendly>=9.1
+  Using cached humanfriendly-10.0-py2.py3-none-any.whl (86 kB)
+Requirement already satisfied: urllib3<3,>=1.21.1 in c:\programdata\anaconda3\envs\yolo\lib\site-packages (from requests[socks]->gdown->labelme) (2.0.7)
+Requirement already satisfied: idna<4,>=2.5 in c:\programdata\anaconda3\envs\yolo\lib\site-packages (from requests[socks]->gdown->labelme) (3.10)
+Requirement already satisfied: certifi>=2017.4.17 in c:\programdata\anaconda3\envs\yolo\lib\site-packages (from requests[socks]->gdown->labelme) (2022.12.7)
+Requirement already satisfied: charset-normalizer<4,>=2 in c:\programdata\anaconda3\envs\yolo\lib\site-packages (from requests[socks]->gdown->labelme) (3.4.4)
+Collecting PySocks!=1.5.7,>=1.5.6
+  Using cached PySocks-1.7.1-py3-none-any.whl (16 kB)
+Collecting mpmath>=0.19
+  Using cached mpmath-1.3.0-py3-none-any.whl (536 kB)
+Collecting pyreadline
+  Using cached pyreadline-2.1-py3-none-any.whl
+Installing collected packages: pyreadline, mpmath, flatbuffers, tifffile, termcolor, sympy, soupsieve, qtpy, PyWavelets, PySocks, protobuf, networkx, natsort, imageio, humanfriendly, filelock, scikit-image, coloredlogs, beautifulsoup4, onnxruntime, imgviz, gdown, labelme
+Successfully installed PySocks-1.7.1 PyWavelets-1.3.0 beautifulsoup4-4.14.3 coloredlogs-15.0.1 filelock-3.12.2 flatbuffers-25.12.19 gdown-4.7.3 humanfriendly-10.0 imageio-2.31.2 imgviz-1.7.5 labelme-5.5.0 mpmath-1.3.0 natsort-8.4.0 networkx-2.6.3 onnxruntime-1.14.1 protobuf-4.24.4 pyreadline-2.1 qtpy-2.4.3 scikit-image-0.19.3 soupsieve-2.4.1 sympy-1.10.1 termcolor-2.3.0 tifffile-2021.11.2
+
+####install ultralytics
+(base) C:\Users\yoqi>pip install ultralytics
+Collecting ultralytics
+  Downloading ultralytics-8.4.7-py3-none-any.whl.metadata (38 kB)
+Requirement already satisfied: numpy>=1.23.0 in c:\program files\python312\lib\site-packages (from ultralytics) (2.2.6)
+Requirement already satisfied: matplotlib>=3.3.0 in c:\program files\python312\lib\site-packages (from ultralytics) (3.10.7)
+Requirement already satisfied: opencv-python>=4.6.0 in c:\program files\python312\lib\site-packages (from ultralytics) (4.12.0.88)
+Requirement already satisfied: pillow>=7.1.2 in c:\program files\python312\lib\site-packages (from ultralytics) (12.0.0)
+Requirement already satisfied: pyyaml>=5.3.1 in c:\program files\python312\lib\site-packages (from ultralytics) (6.0.3)
+Requirement already satisfied: requests>=2.23.0 in c:\program files\python312\lib\site-packages (from ultralytics) (2.32.5)
+Requirement already satisfied: scipy>=1.4.1 in c:\program files\python312\lib\site-packages (from ultralytics) (1.16.2)
+Collecting torch<2.10,>=1.8.0 (from ultralytics)
+  Downloading torch-2.9.1-cp312-cp312-win_amd64.whl.metadata (30 kB)
+Collecting torchvision>=0.9.0 (from ultralytics)
+  Downloading torchvision-0.25.0-cp312-cp312-win_amd64.whl.metadata (5.4 kB)
+Collecting psutil>=5.8.0 (from ultralytics)
+  Downloading psutil-7.2.1-cp37-abi3-win_amd64.whl.metadata (23 kB)
+Collecting polars>=0.20.0 (from ultralytics)
+  Downloading polars-1.37.1-py3-none-any.whl.metadata (10 kB)
+Collecting ultralytics-thop>=2.0.18 (from ultralytics)
+  Downloading ultralytics_thop-2.0.18-py3-none-any.whl.metadata (14 kB)
+Requirement already satisfied: filelock in c:\program files\python312\lib\site-packages (from torch<2.10,>=1.8.0->ultralytics) (3.20.3)
+Requirement already satisfied: typing-extensions>=4.10.0 in c:\program files\python312\lib\site-packages (from torch<2.10,>=1.8.0->ultralytics) (4.15.0)
+Requirement already satisfied: sympy>=1.13.3 in c:\program files\python312\lib\site-packages (from torch<2.10,>=1.8.0->ultralytics) (1.14.0)
+Requirement already satisfied: networkx>=2.5.1 in c:\program files\python312\lib\site-packages (from torch<2.10,>=1.8.0->ultralytics) (3.6.1)
+Collecting jinja2 (from torch<2.10,>=1.8.0->ultralytics)
+  Downloading jinja2-3.1.6-py3-none-any.whl.metadata (2.9 kB)
+Collecting fsspec>=0.8.5 (from torch<2.10,>=1.8.0->ultralytics)
+  Downloading fsspec-2026.1.0-py3-none-any.whl.metadata (10 kB)
+Requirement already satisfied: setuptools in c:\program files\python312\lib\site-packages (from torch<2.10,>=1.8.0->ultralytics) (80.9.0)
+Requirement already satisfied: contourpy>=1.0.1 in c:\program files\python312\lib\site-packages (from matplotlib>=3.3.0->ultralytics) (1.3.3)
+Requirement already satisfied: cycler>=0.10 in c:\program files\python312\lib\site-packages (from matplotlib>=3.3.0->ultralytics) (0.12.1)
+Requirement already satisfied: fonttools>=4.22.0 in c:\program files\python312\lib\site-packages (from matplotlib>=3.3.0->ultralytics) (4.60.1)
+Requirement already satisfied: kiwisolver>=1.3.1 in c:\program files\python312\lib\site-packages (from matplotlib>=3.3.0->ultralytics) (1.4.9)
+Requirement already satisfied: packaging>=20.0 in c:\program files\python312\lib\site-packages (from matplotlib>=3.3.0->ultralytics) (25.0)
+Requirement already satisfied: pyparsing>=3 in c:\program files\python312\lib\site-packages (from matplotlib>=3.3.0->ultralytics) (3.2.5)
+Requirement already satisfied: python-dateutil>=2.7 in c:\program files\python312\lib\site-packages (from matplotlib>=3.3.0->ultralytics) (2.9.0.post0)
+Collecting polars-runtime-32==1.37.1 (from polars>=0.20.0->ultralytics)
+  Downloading polars_runtime_32-1.37.1-cp310-abi3-win_amd64.whl.metadata (1.5 kB)
+Requirement already satisfied: six>=1.5 in c:\program files\python312\lib\site-packages (from python-dateutil>=2.7->matplotlib>=3.3.0->ultralytics) (1.17.0)
+Requirement already satisfied: charset_normalizer<4,>=2 in c:\program files\python312\lib\site-packages (from requests>=2.23.0->ultralytics) (3.4.4)
+Requirement already satisfied: idna<4,>=2.5 in c:\program files\python312\lib\site-packages (from requests>=2.23.0->ultralytics) (3.11)
+Requirement already satisfied: urllib3<3,>=1.21.1 in c:\program files\python312\lib\site-packages (from requests>=2.23.0->ultralytics) (2.5.0)
+Requirement already satisfied: certifi>=2017.4.17 in c:\program files\python312\lib\site-packages (from requests>=2.23.0->ultralytics) (2025.10.5)
+Requirement already satisfied: mpmath<1.4,>=1.1.0 in c:\program files\python312\lib\site-packages (from sympy>=1.13.3->torch<2.10,>=1.8.0->ultralytics) (1.3.0)
+INFO: pip is looking at multiple versions of torchvision to determine which version is compatible with other requirements. This could take a while.
+Collecting torchvision>=0.9.0 (from ultralytics)
+  Downloading torchvision-0.24.1-cp312-cp312-win_amd64.whl.metadata (5.9 kB)
+Collecting MarkupSafe>=2.0 (from jinja2->torch<2.10,>=1.8.0->ultralytics)
+  Downloading markupsafe-3.0.3-cp312-cp312-win_amd64.whl.metadata (2.8 kB)
+Downloading ultralytics-8.4.7-py3-none-any.whl (1.2 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.2/1.2 MB 3.1 MB/s  0:00:00
+Downloading torch-2.9.1-cp312-cp312-win_amd64.whl (110.9 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 110.9/110.9 MB 1.9 MB/s  0:00:38
+Downloading fsspec-2026.1.0-py3-none-any.whl (201 kB)
+Downloading polars-1.37.1-py3-none-any.whl (805 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 805.7/805.7 kB 2.5 MB/s  0:00:00
+Downloading polars_runtime_32-1.37.1-cp310-abi3-win_amd64.whl (44.9 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 44.9/44.9 MB 2.3 MB/s  0:00:19
+Downloading psutil-7.2.1-cp37-abi3-win_amd64.whl (136 kB)
+Downloading torchvision-0.24.1-cp312-cp312-win_amd64.whl (4.3 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 4.3/4.3 MB 1.6 MB/s  0:00:02
+Downloading ultralytics_thop-2.0.18-py3-none-any.whl (28 kB)
+Downloading jinja2-3.1.6-py3-none-any.whl (134 kB)
+Downloading markupsafe-3.0.3-cp312-cp312-win_amd64.whl (15 kB)
+Installing collected packages: psutil, polars-runtime-32, MarkupSafe, fsspec, polars, jinja2, torch, ultralytics-thop, torchvision, ultralytics
+Successfully installed MarkupSafe-3.0.3 fsspec-2026.1.0 jinja2-3.1.6 polars-1.37.1 polars-runtime-32-1.37.1 psutil-7.2.1 torch-2.9.1 torchvision-0.24.1 ultralytics-8.4.7 ultralytics-thop-2.0.18
+
+

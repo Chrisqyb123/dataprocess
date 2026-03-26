@@ -1,0 +1,80 @@
+cd "C:\Python\whl_for_3.7Win64_auto_install"
+pip install xlrd-1.2.0-py2.py3-none-any.whl
+pip install lml-0.1.0-py2.py3-none-any.whl
+pip install pyexcel_io-0.6.2-py2.py3-none-any.whl
+pip install xlwt-1.3.0-py2.py3-none-any.whl
+pip install numpy-1.21.2-cp37-cp37m-win_amd64.whl
+pip install pyparsing-2.4.2-py2.py3-none-any.whl
+pip install pytz-2021.1-py2.py3-none-any.whl
+pip install six-1.16.0-py2.py3-none-any.whl
+pip install python_dateutil-2.8.2-py2.py3-none-any.whl
+pip install cycler-0.10.0-py2.py3-none-any.whl
+pip install kiwisolver-1.3.2-cp37-cp37m-win_amd64.whl
+pip install packaging-21.0-py3-none-any.whl
+pip install tomli-1.2.1-py3-none-any.whl
+pip install setuptools_scm-6.3.2-py3-none-any.whl
+pip install fonttools-4.26.2-py3-none-any.whl
+pip install Pillow-8.3.2-cp37-cp37m-win_amd64.whl
+pip install matplotlib-2.2.3-cp37-cp37m-win_amd64.whl
+pip install pandas-1.3.2-cp37-cp37m-win_amd64.whl
+pip install et_xmlfile-1.1.0-py3-none-any.whl
+pip install jdcal-1.4.1-py2.py3-none-any.whl
+pip install openpyxl-3.0.4-py2.py3-none-any.whl
+pip install XlsxWriter-3.0.1-py3-none-any.whl
+pip install lxml-4.2.4-cp37-cp37m-win_amd64.whl
+pip install python-pptx-0.6.19.tar.gz
+pip install PyMySQL-1.0.2-py3-none-any.whl
+pip install urllib3-1.26.6-py2.py3-none-any.whl
+pip install requests-2.26.0-py2.py3-none-any.whl
+pip install certifi-2021.5.30-py2.py3-none-any.whl
+pip install charset_normalizer-2.0.4-py3-none-any.whl
+pip install idna-3.2-py3-none-any.whl
+pip install pysolr-3.8.1-py2.py3-none-any.whl
+pip install tenacity-8.2.3-py3-none-any.whl
+pip install plotly-5.18.0-py3-none-any.whl
+pip install scipy-1.1.0-cp37-none-win_amd64.whl
+pip install threadpoolctl-2.0.0-py3-none-any.whl
+pip install joblib-0.11-py2.py3-none-any.whl
+pip install opencv_python-4.9.0.80-cp37-abi3-win_amd64.whl
+pip install scikit_learn-1.0.2-cp37-cp37m-win_amd64.whl
+pip install gdstk-0.9.42-cp37-cp37m-win_amd64.whl
+pause
+
+
+cd "C:\Python\whl_for_3.7Win64_auto_install\pyinstaller"
+pip install setuptools-68.0.0-py3-none-any.whl
+pip install altgraph-0.17.4-py2.py3-none-any.whl
+pip install packaging-24.0-py3-none-any.whl
+pip install importlib_metadata-6.7.0-py3-none-any.whl
+pip install pyinstaller_hooks_contrib-2024.7-py2.py3-none-any.whl
+pip install pefile-2024.8.26-py3-none-any.whl
+pip install pywin32_ctypes-0.2.3-py3-none-any.whl
+pip install zipp-0.5.1-py2.py3-none-any.whl
+pip install typing_extensions-4.7.1-py3-none-any.whl
+pip install pyinstaller-5.13.2-py3-none-win_amd64.whl
+
+pause
+
+
+cd "C:\Python\whl_for_3.7Win64_auto_install\IQA"
+pip install scipy-1.7.3-cp37-cp37m-win_amd64.whl
+pip install networkx-2.4-py3-none-any.whl
+pip install imageio-2.5.0-py3-none-any.whl
+pip install tifffile-2021.11.2-py3-none-any.whl
+pip install PyWavelets-1.3.0-cp37-cp37m-win_amd64.whl
+pip install decorator-4.3.0-py2.py3-none-any.whl
+pip install scikit_image-0.19.3-cp37-cp37m-win_amd64.whl
+pip install sewar-0.4.6.tar.gz
+pip install dataclasses-0.6-py3-none-any.whl
+pip install setuptools-68.0.0-py3-none-any.whl
+pip install seaborn-0.9.0-py3-none-any.whl
+
+pause
+
+cd "C:\Python\whl_for_3.7Win64_auto_install\IQA_new"
+pip install pyFFTW-0.13.0-cp37-cp37m-win_amd64.whl
+pip install matplotlib-3.1.0-cp37-cp37m-win_amd64.whl
+pip install pyparsing-3.1.4-py3-none-any.whl
+pip install mplcursors-0.7-py3-none-any.whl
+
+pause
